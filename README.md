@@ -1,18 +1,63 @@
-# Refresh
+🧪 Data Science Bootcamp – Day 1 & 2
 
-A collection of practice notebooks and exercises to refresh my Python and Data Science skills.  
+Welcome to my personal data science bootcamp repository!
+This repo tracks my daily progress as I work through Python and data science fundamentals, building toward full-stack data science projects.
 
-## Contents
-- **Step 4: Mini Assignment**  
-  - Variables (name, age, favorite food)  
-  - Printing formatted strings  
-  - Lists and loops  
+📁 Repository Structure
+.
+├── day1_basics.ipynb       # Environment setup & Python basics
+├── day2_fundamentals.ipynb # Python strings, loops, conditionals, functions
+├── README.md               # This file
 
-More notebooks and practice problems will be added as I continue my refresh journey. 🚀
+📅 Table of Contents / Daily Progress
+Day 1 – Environment Setup & Python Basics
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/refresh.git
+Installed Anaconda, VS Code, GitHub, and Jupyter Notebook
+
+Wrote first Python program: "Hello Data Science World!"
+
+Learned:
+
+Variables, data types, lists, dictionaries
+
+Loops (for)
+
+Functions
+
+Mini Assignment: Store name, age, favorite food & list of numbers
+
+Day 2 – Python Fundamentals
+
+Learned:
+
+Strings: manipulation & formatting
+
+Conditionals: if, elif, else
+
+Loops: for, while
+
+Functions with logic
+
+Practice Challenges:
+
+Age classifier function
+
+Classic FizzBuzz exercise
+
+🛠️ Tools Used
+
+Python 3.x
+
+Jupyter Notebook
+
+VS Code
+
+Git & GitHub
+
+✅ Next Steps
+
+Deep dive into Python collections and problem-solving (Day 3)
+
+Start exploring NumPy & Pandas for data manipulation
 
 
