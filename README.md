@@ -1,55 +1,89 @@
-🧪 Data Science Bootcamp – Day 1, 2 & 3
+# 🧪 Data Science Bootcamp – Days 1–4
 
-Welcome to my personal data science bootcamp repository!  
+Welcome to my **personal data science bootcamp** repository!
 This repo tracks my daily progress as I work through Python and data science fundamentals, building toward full-stack data science projects.
 
-📁 Repository Structure
+## 📁 Repository Structure
+
+```
 .
-├── day1_basics.ipynb       # Environment setup & Python basics
-├── day2_fundamentals.ipynb # Python strings, loops, conditionals, functions
-├── day3_collections.ipynb  # Python collections, problem-solving practice
-├── README.md               # This file
+├── day1_basics.ipynb        # Environment setup & Python basics
+├── day2_fundamentals.ipynb  # Python strings, loops, conditionals, functions
+├── day3_collections.ipynb   # Lists, tuples, sets, dictionaries & problem-solving
+├── day4_numpy.ipynb         # NumPy basics, arrays, math operations
+├── README.md                # This file
+```
 
-📅 Table of Contents / Daily Progress
-**Day 1 – Environment Setup & Python Basics**
+---
 
-- Installed Anaconda, VS Code, GitHub, and Jupyter Notebook  
-- Wrote first Python program: "Hello Data Science World!"  
-- Learned:  
-  - Variables, data types, lists, dictionaries  
-  - Loops (for)  
-  - Functions  
-- Mini Assignment: Store name, age, favorite food & list of numbers  
+## 📅 Table of Contents / Daily Progress
 
-**Day 2 – Python Fundamentals**
+### [Day 1 – Environment Setup & Python Basics](./day1_basics.ipynb)
 
-- Learned:  
-  - Strings: manipulation & formatting  
-  - Conditionals: if, elif, else  
-  - Loops: for, while  
-  - Functions with logic  
-- Practice Challenges:  
-  - Age classifier function  
-  - Classic FizzBuzz exercise  
+* Installed Anaconda, VS Code, GitHub, and Jupyter Notebook
+* Wrote first Python program: `"Hello Data Science World!"`
+* Learned:
 
-**Day 3 – Python Collections & Problem-Solving**
+  * Variables, data types, lists, dictionaries
+  * Loops (`for`)
+  * Functions
+* Mini Assignment: Store name, age, favorite food & list of numbers
 
-- Learned:  
-  - Lists, tuples, sets, and dictionaries in depth  
-  - Indexing, slicing, comprehensions  
-  - Nesting data structures  
-- Practice Challenges:  
-  - Create a contact book using dictionaries  
-  - Word frequency counter from a text string  
-  - Find unique values using sets  
+### [Day 2 – Python Fundamentals](./day2_fundamentals.ipynb)
 
-🛠️ Tools Used
-- Python 3.x  
-- Jupyter Notebook  
-- VS Code  
-- Git & GitHub  
+* Learned:
 
-✅ Next Steps
-- Explore error handling & file I/O (Day 4)  
-- Begin working with NumPy & Pandas for data manipulation  
+  * Strings: manipulation & formatting
+  * Conditionals: `if`, `elif`, `else`
+  * Loops: `for`, `while`
+  * Functions with logic
+* Practice Challenges:
+
+  * Age classifier function
+  * Classic FizzBuzz exercise
+
+### [Day 3 – Python Collections & Problem-Solving](./day3_collections.ipynb)
+
+* Learned:
+
+  * Lists, Tuples, Sets, Dictionaries in depth
+  * Indexing, slicing, adding/removing items
+  * Problem-solving using collections
+* Mini Projects:
+
+  * Word counter function
+  * Unique items function
+  * Shopping cart total
+  * Phone book app
+
+### [Day 4 – NumPy Basics](./day4_numpy.ipynb)
+
+* Learned:
+
+  * Creating 1D & 2D arrays
+  * Indexing, slicing, reshaping
+  * Array operations: add, multiply, dot product
+  * Statistics: mean, variance, standard deviation
+  * Boolean masking for filtering arrays
+* Mini Project:
+
+  * Dice simulator: 10,000 rolls of 2 dice, analyzed results
+
+---
+
+## 🛠️ Tools Used
+
+* Python 3.x
+* Jupyter Notebook
+* VS Code
+* NumPy
+* Git & GitHub
+
+---
+
+## ✅ Next Steps
+
+Day 5: Introduction to Pandas – loading, inspecting, and manipulating real datasets
+
+Continue building portfolio projects with real data
 
