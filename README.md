@@ -1,106 +1,91 @@
-🧪 Data Science Bootcamp – Days 1–5
+# 🧪 Data Science Bootcamp – Days 1–6
 
-Welcome to my personal data science bootcamp repository!
+Welcome to my **personal data science bootcamp** repository!
 This repo tracks my daily progress as I work through Python and data science fundamentals, building toward full-stack data science projects.
 
-📁 Repository Structure
+## 📁 Repository Structure
+
+```
 .
-├── day1_basics.ipynb        # Environment setup & Python basics
-├── day2_fundamentals.ipynb  # Python strings, loops, conditionals, functions
-├── day3_collections.ipynb   # Lists, tuples, sets, dictionaries & problem-solving
-├── day4_numpy.ipynb         # NumPy basics, arrays, math operations
-├── day5_pandas.ipynb        # Pandas basics, Series, DataFrames, Titanic dataset
-├── README.md                # This file
+├── day1_basics.ipynb
+├── day2 basics.ipynb
+├── day3.ipynb
+├── day4.ipynb
+├── day5.ipynb
+├── day6.ipynb
+├── projects/
+│   ├── dice_simulation.ipynb
+│   ├── phonebook_app.ipynb
+│   ├── shopping_cart.ipynb
+│   ├── titanic_survival_analysis.ipynb
+│   └── word_counter.ipynb
+├── README.md
+```
 
-📅 Table of Contents / Daily Progress
-Day 1 – Environment Setup & Python Basics
+---
 
-Installed Anaconda, VS Code, GitHub, and Jupyter Notebook
+## 📅 Daily Progress
 
-Wrote first Python program: "Hello Data Science World!"
+### Day 1 – Environment Setup & Python Basics
 
-Learned variables, data types, lists, dictionaries, loops, functions
+* Installed Anaconda, VS Code, GitHub, Jupyter Notebook
+* Wrote first Python program: `"Hello Data Science World!"`
+* Variables, data types, lists, dictionaries, loops, functions
+* Mini assignment: store personal info & list of numbers
 
-Mini Assignment: store personal info & list of numbers
+### Day 2 – Python Fundamentals
 
-Day 2 – Python Fundamentals
+* Strings, conditionals, loops, functions with logic
+* Mini projects: Age classifier, FizzBuzz
 
-Learned strings, conditionals, loops, and functions with logic
+### Day 3 – Python Collections
 
-Practice Challenges:
+* Lists, Tuples, Sets, Dictionaries
+* Problem-solving with collections
+* Mini projects: Word counter, unique items, shopping cart, phone book
 
-Age classifier
+### Day 4 – NumPy Basics
 
-Classic FizzBuzz exercise
+* Created arrays, indexing, slicing, reshaping
+* Array operations: add, multiply, dot product
+* Stats: mean, variance, std deviation
+* Boolean masking
+* Mini project: 10,000 dice rolls analysis
 
-Day 3 – Python Collections & Problem-Solving
+### Day 5 – Pandas Basics
 
-Worked with Lists, Tuples, Sets, Dictionaries in depth
+* Series & DataFrames
+* Loaded Titanic dataset
+* Inspecting data: head, info, describe
+* Selecting, filtering, cleaning data
+* Mini project: Titanic survival analysis (gender, age, children)
 
-Problem-solving using collections
+### Day 6 – Pandas Grouping & Aggregation
 
-Mini Projects:
+* Groupby, multiple aggregations
+* Sorting, ranking, value counts, unique
+* Mini project: Titanic deep dive (class, embark port, family survival patterns)
 
-Word counter function
+---
 
-Unique items function
+## 🛠️ Tools Used
 
-Shopping cart total
+* Python 3.x
+* Jupyter Notebook
+* VS Code
+* NumPy
+* Pandas
+* Git & GitHub
 
-Phone book app
+---
 
-Day 4 – NumPy Basics
+## 📂 Projects
 
-Created 1D & 2D arrays
+* Word Counter
+* Shopping Cart
+* Phonebook App
+* Dice Simulation
+* Titanic Survival Analysis
 
-Indexing, slicing, reshaping arrays
+---
 
-Array operations: add, multiply, dot product
-
-Stats: mean, variance, std deviation
-
-Boolean masking for filtering
-
-Mini Project: 10,000 dice rolls, analyzed most common result
-
-Day 5 – Pandas Basics
-
-Created Series (1D) & DataFrames (2D tables)
-
-Loaded datasets from CSV (Titanic dataset)
-
-Inspected data with .head(), .info(), .describe()
-
-Selected & filtered data with conditions
-
-Cleaned data: drop/fill missing values, rename columns
-
-Mini Project:
-
-Calculated survival percentage
-
-Compared survival rates by gender
-
-Found avg age of survivors vs non-survivors
-
-Counted child (<12) survivors
-
-🛠️ Tools Used
-
-Python 3.x
-
-Jupyter Notebook
-
-VS Code
-
-NumPy
-
-Pandas
-
-Git & GitHub
-
-✅ Next Steps
-
-Day 6: Pandas intermediate – grouping, aggregation, sorting
-
-More exploratory data analysis (EDA) with Titanic dataset
