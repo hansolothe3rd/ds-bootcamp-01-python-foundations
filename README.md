@@ -1,89 +1,106 @@
-# 🧪 Data Science Bootcamp – Days 1–4
+🧪 Data Science Bootcamp – Days 1–5
 
-Welcome to my **personal data science bootcamp** repository!
+Welcome to my personal data science bootcamp repository!
 This repo tracks my daily progress as I work through Python and data science fundamentals, building toward full-stack data science projects.
 
-## 📁 Repository Structure
-
-```
+📁 Repository Structure
 .
 ├── day1_basics.ipynb        # Environment setup & Python basics
 ├── day2_fundamentals.ipynb  # Python strings, loops, conditionals, functions
 ├── day3_collections.ipynb   # Lists, tuples, sets, dictionaries & problem-solving
 ├── day4_numpy.ipynb         # NumPy basics, arrays, math operations
+├── day5_pandas.ipynb        # Pandas basics, Series, DataFrames, Titanic dataset
 ├── README.md                # This file
-```
 
----
+📅 Table of Contents / Daily Progress
+Day 1 – Environment Setup & Python Basics
 
-## 📅 Table of Contents / Daily Progress
+Installed Anaconda, VS Code, GitHub, and Jupyter Notebook
 
-### [Day 1 – Environment Setup & Python Basics](./day1_basics.ipynb)
+Wrote first Python program: "Hello Data Science World!"
 
-* Installed Anaconda, VS Code, GitHub, and Jupyter Notebook
-* Wrote first Python program: `"Hello Data Science World!"`
-* Learned:
+Learned variables, data types, lists, dictionaries, loops, functions
 
-  * Variables, data types, lists, dictionaries
-  * Loops (`for`)
-  * Functions
-* Mini Assignment: Store name, age, favorite food & list of numbers
+Mini Assignment: store personal info & list of numbers
 
-### [Day 2 – Python Fundamentals](./day2_fundamentals.ipynb)
+Day 2 – Python Fundamentals
 
-* Learned:
+Learned strings, conditionals, loops, and functions with logic
 
-  * Strings: manipulation & formatting
-  * Conditionals: `if`, `elif`, `else`
-  * Loops: `for`, `while`
-  * Functions with logic
-* Practice Challenges:
+Practice Challenges:
 
-  * Age classifier function
-  * Classic FizzBuzz exercise
+Age classifier
 
-### [Day 3 – Python Collections & Problem-Solving](./day3_collections.ipynb)
+Classic FizzBuzz exercise
 
-* Learned:
+Day 3 – Python Collections & Problem-Solving
 
-  * Lists, Tuples, Sets, Dictionaries in depth
-  * Indexing, slicing, adding/removing items
-  * Problem-solving using collections
-* Mini Projects:
+Worked with Lists, Tuples, Sets, Dictionaries in depth
 
-  * Word counter function
-  * Unique items function
-  * Shopping cart total
-  * Phone book app
+Problem-solving using collections
 
-### [Day 4 – NumPy Basics](./day4_numpy.ipynb)
+Mini Projects:
 
-* Learned:
+Word counter function
 
-  * Creating 1D & 2D arrays
-  * Indexing, slicing, reshaping
-  * Array operations: add, multiply, dot product
-  * Statistics: mean, variance, standard deviation
-  * Boolean masking for filtering arrays
-* Mini Project:
+Unique items function
 
-  * Dice simulator: 10,000 rolls of 2 dice, analyzed results
+Shopping cart total
 
----
+Phone book app
 
-## 🛠️ Tools Used
+Day 4 – NumPy Basics
 
-* Python 3.x
-* Jupyter Notebook
-* VS Code
-* NumPy
-* Git & GitHub
+Created 1D & 2D arrays
 
----
+Indexing, slicing, reshaping arrays
 
-## ✅ Next Steps
+Array operations: add, multiply, dot product
 
-Day 5: Introduction to Pandas – loading, inspecting, and manipulating real datasets
+Stats: mean, variance, std deviation
 
-Continue building portfolio projects with real data
+Boolean masking for filtering
 
+Mini Project: 10,000 dice rolls, analyzed most common result
+
+Day 5 – Pandas Basics
+
+Created Series (1D) & DataFrames (2D tables)
+
+Loaded datasets from CSV (Titanic dataset)
+
+Inspected data with .head(), .info(), .describe()
+
+Selected & filtered data with conditions
+
+Cleaned data: drop/fill missing values, rename columns
+
+Mini Project:
+
+Calculated survival percentage
+
+Compared survival rates by gender
+
+Found avg age of survivors vs non-survivors
+
+Counted child (<12) survivors
+
+🛠️ Tools Used
+
+Python 3.x
+
+Jupyter Notebook
+
+VS Code
+
+NumPy
+
+Pandas
+
+Git & GitHub
+
+✅ Next Steps
+
+Day 6: Pandas intermediate – grouping, aggregation, sorting
+
+More exploratory data analysis (EDA) with Titanic dataset
