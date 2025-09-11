@@ -1,23 +1,20 @@
-# 🧪 Data Science Bootcamp – Days 1–7
+# 🧪 Data Science Bootcamp – Days 1–8
 
 Welcome to my **personal data science bootcamp** repository!  
 This repo tracks my daily progress as I work through Python and data science fundamentals, building toward full-stack data science projects.
 
 ## 📁 Repository Structure
 
-```
-
 .
-├── day1\_basics.ipynb
-├── day2\_basics.ipynb
+├── day1_basics.ipynb
+├── day2_basics.ipynb
 ├── day3.ipynb
 ├── day4.ipynb
 ├── day5.ipynb
 ├── day6.ipynb
 ├── day7.ipynb
+├── day8.ipynb
 ├── README.md
-
-```
 
 ---
 
@@ -66,6 +63,12 @@ This repo tracks my daily progress as I work through Python and data science fun
   - High fare passengers survival  
   - Most common Embarked port among survivors  
 
+### Day 8 – Data Visualization Basics
+- Intro to Matplotlib & Seaborn  
+- Plotted histograms, bar charts, scatter plots  
+- Titanic visualizations: survival by sex, class, age distribution, and fare  
+- Mini project: 3 visualizations of survival patterns  
+
 ---
 
 ## 🛠️ Tools Used
@@ -74,9 +77,11 @@ This repo tracks my daily progress as I work through Python and data science fun
 - VS Code  
 - NumPy  
 - Pandas  
+- Matplotlib  
+- Seaborn  
 - Git & GitHub  
-```
+Next move is either:
 
----
+Day 9 → Advanced Visualizations (pair plots, heatmaps, subplots), or
 
-
+Extracting your first Mini-Project notebook (a polished Titanic EDA).
