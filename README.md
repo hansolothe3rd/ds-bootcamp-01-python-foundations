@@ -1,4 +1,4 @@
-# 🧪 Data Science Bootcamp – Days 1–8
+# 🧪 Data Science Bootcamp – 
 
 Welcome to my **personal data science bootcamp** repository!  
 This repo tracks my daily progress as I work through Python and data science fundamentals, building toward full-stack data science projects.
@@ -14,6 +14,7 @@ This repo tracks my daily progress as I work through Python and data science fun
 ├── day6.ipynb
 ├── day7.ipynb
 ├── day8.ipynb
+├── day9.ipynb
 ├── README.md
 
 ---
@@ -68,6 +69,14 @@ This repo tracks my daily progress as I work through Python and data science fun
 - Plotted histograms, bar charts, scatter plots  
 - Titanic visualizations: survival by sex, class, age distribution, and fare  
 - Mini project: 3 visualizations of survival patterns  
+
+### Day 9 – Advanced Data Visualization
+- Explored advanced Seaborn plots: boxplot, violin, swarm, pairplot, heatmap  
+- Practiced subplots with Matplotlib  
+- Mini project: Titanic Visual Deep Dive  
+  - Fare by class and survival (boxplot)  
+  - Age distribution by class (violin plot)  
+  - Correlation heatmap of numerical features  
 
 ---
 
