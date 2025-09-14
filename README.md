@@ -15,6 +15,7 @@ This repo tracks my daily progress as I work through Python and data science fun
 ├── day7.ipynb
 ├── day8.ipynb
 ├── day9.ipynb
+├── day10.ipynb
 ├── README.md
 
 ---
@@ -76,7 +77,15 @@ This repo tracks my daily progress as I work through Python and data science fun
 - Mini project: Titanic Visual Deep Dive  
   - Fare by class and survival (boxplot)  
   - Age distribution by class (violin plot)  
-  - Correlation heatmap of numerical features  
+  - Correlation heatmap of numerical features
+
+### Day 10 – Full EDA Workflow
+- Combined cleaning, exploration, and visualization into a full workflow  
+- Mini project: Titanic Exploratory Data Analysis  
+  - Cleaned data (filled Age, Embarked; renamed columns)  
+  - Key questions: survival by gender, class, age, fare  
+  - Created 5+ visualizations  
+  - Summarized insights in markdown cells  
 
 ---
 
@@ -89,8 +98,4 @@ This repo tracks my daily progress as I work through Python and data science fun
 - Matplotlib  
 - Seaborn  
 - Git & GitHub  
-Next move is either:
 
-Day 9 → Advanced Visualizations (pair plots, heatmaps, subplots), or
-
-Extracting your first Mini-Project notebook (a polished Titanic EDA).
