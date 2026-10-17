@@ -1,4 +1,4 @@
-# 🧪 Data Science Bootcamp – 
+# 🧪 Data Science Bootcamp – Days 1–10
 
 Welcome to my **personal data science bootcamp** repository!  
 This repo tracks my daily progress as I work through Python and data science fundamentals, building toward full-stack data science projects.
@@ -97,5 +97,8 @@ This repo tracks my daily progress as I work through Python and data science fun
 - Pandas  
 - Matplotlib  
 - Seaborn  
-- Git & GitHub  
+- Git & GitHub
 
+---
+
+**Next:** [Days 11–20 → ds-bootcamp-02-analysis-viz](https://github.com/hansolothe3rd/ds-bootcamp-02-analysis-viz)
